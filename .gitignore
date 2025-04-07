@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.env
+
+# Data
+*.csv
+*.parquet
+
+# Secrets
+**/config/*.json
+**/*.key
+
+# MLflow
+ml_model/mlflow_logs/
+
+# IDE
+.vscode/
+.idea/
