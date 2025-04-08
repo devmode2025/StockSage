@@ -18,3 +18,4 @@ ml_model/mlflow_logs/
 # IDE
 .vscode/
 .idea/
+data_ingestion/config/kafka_config.json
